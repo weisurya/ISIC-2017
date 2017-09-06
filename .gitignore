@@ -1,0 +1,3 @@
+#.gitignore
+/data
+/.ipynb_checkpoints
